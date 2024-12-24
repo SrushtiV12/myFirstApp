@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My first app</string>
+    <string name="leriya_fashion">Leriya Fashion</string>
+    <string name="_540">₹540</string>
+    <string name="women">Women</string>
+    <string name="men">Men</string>
+    <string name="men_fashion">Men_fashion</string>
+    <string name="kids">Kids</string>
+    <string name="kid_s_cotton_casuals">Kid\'s Cotton Casuals</string>
+    <string name="tweeny_mini">Tweeny Mini</string>
+    <string name="stylish_printed_dress">Stylish Printed dress</string>
 </resources>
